@@ -1,9 +1,16 @@
 package com.company;
 
+import java.util.*;
+
 public class Main {
 
     public static void main(String[] args) {
-	System.out.println("Master checkout");
-	System.out.println("Master 2 another commit");
+        List<String> strlist = new ArrayList<>();
+        strlist.add("addd");
+        strlist.add("sedd");
+        strlist.add("sddsd");
+        for(int i = 0;i<strlist.size();i++)
+            System.out.println(strlist.get(i));
+        }
     }
-}
+
