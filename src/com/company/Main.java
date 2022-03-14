@@ -4,6 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
 	System.out.println("Master checkout");
-	System.out.println("Master 2 another commit");
+	System.out.println("Master 2 another comhtkwrwejh kqmit");
     }
 }
